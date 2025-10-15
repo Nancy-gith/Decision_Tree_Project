@@ -30,8 +30,7 @@ Key steps include:
    git clone https://github.com/Nancy-gith/Decision_Tree_Project.git
 ## 📁 Project Structure
 ```
-Project 5/
-│
+
 ├── sleep_quality.csv        # Dataset
 ├── Project 5.ipynb          # Jupyter Notebook with analysis and Decision Tree implementation
 ├── README.md                # Project documentation
